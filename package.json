@@ -1,0 +1,30 @@
+{
+  "name": "kick-api",
+  "version": "1.0.0",
+  "description": "The kick-api module is a JavaScript library that provides easy access to the Kick API.",
+  "main": "index.js",
+  "author": "0TEX0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0TEX0/kick-api.git"
+  },
+  "keywords": [
+    "kick",
+    "api",
+    "node"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0TEX0/kick-api/issues"
+  },
+  "homepage": "https://github.com/0TEX0/kick-api#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^20.8.2"
+  }
+}
