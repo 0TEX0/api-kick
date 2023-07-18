@@ -1,1 +1,1 @@
-# kick-api
+# api-kick
