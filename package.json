@@ -1,6 +1,6 @@
 {
   "name": "api-kick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The api-kick module is a JavaScript library that provides easy access to the Kick API.",
   "main": "index.js",
   "author": "0TEX0",
